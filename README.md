@@ -9,4 +9,6 @@ rename logo name As Hacker to " your name "
 ![alt text](https://github.com/AashooSharma/image/blob/main/Screenshot_2020-11-24-03-14-41-88_84d3000e3f4017145260f7618db1d683.jpg)
 
 after that type this command
-bash  
+bash "file name.sh"
+
+![alt text](https://github.com/AashooSharma/image/blob/main/Screenshot_2020-11-24-03-19-57-15_84d3000e3f4017145260f7618db1d683.jpg)
