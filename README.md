@@ -1,7 +1,7 @@
 # ASHacker1
-## A simple framework which will help you to get yuor life a lot easier
+## A simple framework which will help you to get your life a lot easier
 
-### ONLY FOR TERMUX
+### only for TERMUX
 
 
 
