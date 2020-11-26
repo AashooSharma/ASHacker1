@@ -1,18 +1,38 @@
 # ASHacker1
-## My logo setup in shortcut command
+## A simple framework which will help you to get your life a lot easier
+
+### only for TERMUX
 
 
-First of all
- Edit this file for your accordingly
-rename logo name As Hacker to " your name "
-
-![alt text](https://github.com/AashooSharma/image/blob/main/Screenshot_2020-11-24-03-14-41-88_84d3000e3f4017145260f7618db1d683.jpg)
-
-after that type this command
-bash "file name.sh"
 
 
-After that type command 
-"mylogo"
 
-![alt text](https://github.com/AashooSharma/image/blob/main/Screenshot_2020-11-24-03-19-57-15_84d3000e3f4017145260f7618db1d683.jpg)
+
+
+
+
+
+
+
+## For install 
+
+```
+git clone https://github.com/saidhmubarak/ASHacker1/
+cd ASHacker1
+bash asframework.sh
+
+```
+
+# warning 
+
+Only basic Tools added
+
+
+### Todos
+
+- Add more Tools
+- Creat social engineering module
+- Creat Webapp Pentesting module
+- Add update option
+
+
