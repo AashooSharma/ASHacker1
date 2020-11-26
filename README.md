@@ -31,8 +31,8 @@ Only basic Tools added
 ### Todos
 
 - Add more Tools
-- Creat socian engineering module
-- Creat Webapp Pentesting mosule
+- Creat social engineering module
+- Creat Webapp Pentesting module
 - Add update option
 
 
